@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntryPoint", "KvantCard_B\EntryPoint.csproj", "{F4999CA8-E1E5-45A4-958A-F92D798E43BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Model\Models.csproj", "{76432DE8-7C94-440D-9484-2B9C76C65CB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{DA795AFB-C04D-4B2F-83A8-86C9D534FA4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{F4999CA8-E1E5-45A4-958A-F92D798E43BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4999CA8-E1E5-45A4-958A-F92D798E43BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4999CA8-E1E5-45A4-958A-F92D798E43BB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{76432DE8-7C94-440D-9484-2B9C76C65CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{76432DE8-7C94-440D-9484-2B9C76C65CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{76432DE8-7C94-440D-9484-2B9C76C65CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{76432DE8-7C94-440D-9484-2B9C76C65CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA795AFB-C04D-4B2F-83A8-86C9D534FA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA795AFB-C04D-4B2F-83A8-86C9D534FA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA795AFB-C04D-4B2F-83A8-86C9D534FA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA795AFB-C04D-4B2F-83A8-86C9D534FA4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
